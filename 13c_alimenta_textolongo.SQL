@@ -1,0 +1,88 @@
+
+
+INSERT INTO textolongo VALUES(
+   1017, 'N', NULL, NULL);
+INSERT INTO textolongo VALUES(
+   1019, 'N', NULL, NULL);
+INSERT INTO textolongo VALUES(
+   1037, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   1039, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   1043, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   1286,  'N', NULL, NULL);
+INSERT INTO textolongo VALUES(
+   1368, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   517, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   518, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   519, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   520, 'N', NULL, NULL);
+INSERT INTO textolongo VALUES(
+   527, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   528, 'N', NULL, NULL);
+INSERT INTO textolongo VALUES(
+   529, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   530, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   557, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   587, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   607, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   613, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   615, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   676, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   708, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   780, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   828, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   833, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   924, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   925, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   926, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   927, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   928, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   929, NULL, NULL, NULL);
+INSERT INTO textolongo VALUES(
+   933, 'N', NULL, NULL);
+INSERT INTO textolongo VALUES(
+   940, NULL, NULL, NULL);
+COMMIT;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
